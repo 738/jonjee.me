@@ -18,7 +18,6 @@ div#portfolio-1 h1 {
     color: #FAF3DD;
     font-size: 48px;
     line-height: 1.4;
-    letter-spacing: 0.01em;
 }
 @media screen and (max-width: 767px) {
     div#portfolio-1 h1 {
@@ -39,7 +38,6 @@ div#portfolio-2 h2 {
     color: #FAF3DD;
     font-size: 40px;
     line-height: 1.5;
-    letter-spacing: 0.01em;
 }
 @media screen and (max-width: 767px) {
     div#portfolio-2 h2 {
@@ -62,7 +60,6 @@ ul#portfolio-3 a {
     line-height: 1.2;
     cursor: pointer;
     font-weight: bold;
-    letter-spacing: 0.03em;
     text-decoration: none;
 }
 @media screen and (max-width: 767px) {
