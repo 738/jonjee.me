@@ -57,13 +57,13 @@ ul#portfolio-3 {
     }
 }
 ul#portfolio-3 a {
-    all: unset;
     color: #FAF3DD;
     font-size: 72px;
     line-height: 1.2;
     cursor: pointer;
     font-weight: bold;
     letter-spacing: 0.03em;
+    text-decoration: none;
 }
 @media screen and (max-width: 767px) {
     ul#portfolio-3 a {
