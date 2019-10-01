@@ -67,3 +67,6 @@ ul#portfolio-3 a {
         font-size: 58px;
     }
 }
+::selection {
+    background: #90c8b1;
+}
